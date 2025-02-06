@@ -1,0 +1,117 @@
+Literature
+DeepL
+<doc	
+<seg id="1">	Come, Meu Filho - Clarice Lispector
+<seg id="2">	O mundo parece chato mas eu sei que não é.
+<seg id="3">	Sabe por que parece chato?
+<seg id="4">	Porque, sempre que a gente olha, o céu está em cima, nunca está embaixo, nunca está de lado.
+<seg id="5">	Eu sei que o mundo é redondo porque disseram, mas só ia parecer redondo se a gente olhasse e às vezes o céu estivesse lá embaixo.
+<seg id="6">	Eu sei que é redondo, mas para mim é chato, mas Ronaldo só sabe que o mundo é redondo, para ele não parece chato.
+<seg id="7">	- ...
+<seg id="8">	— Porque eu estive em muitos países e vi que nos Estados Unidos o céu também é em cima, por isso o mundo parecia todo reto para mim.
+<seg id="9">	Mas Ronaldo nunca saiu do Brasil e pode pensar que só aqui é que o céu é lá em cima, que nos outros lugares não é chato, que só é chato no Brasil, que nos outros lugares que ele não viu vai arredondando.
+<seg id="10">	Quando dizem para ele, é só acreditar, pra ele nada precisa parecer. 
+<seg id="11">	Você prefere prato fundo ou prato chato, mamãe?
+<seg id="12">	— Chat... raso, quer dizer.
+<seg id="13">	— Eu também.
+<seg id="14">	No fundo, parece que cabe mais, mas é só para o fundo, no chato cabe para os lados e a gente vê logo tudo o que tem.
+<seg id="15">	Pepino não parece inreal? 
+<seg id="16">	— Irreal. 
+<seg id="17">	— Por que você acha? 
+<seg id="18">	— Se diz assim.
+<seg id="19">	— Não, por que é que você também achou que pepino parece inreal? 
+<seg id="20">	Eu também.
+<seg id="21">	A gente olha e vê um pouco do outro lado, é cheio de desenho bem igual, é frio na boca, faz barulho de um pouco de vidro quando se mastiga.
+<seg id="22">	Você não acha que pepino parece inventado?
+<seg id="23">	— Parece.
+<seg id="24">	— Onde foi inventado feijão com arroz?
+<seg id="25">	— Aqui.
+<seg id="26">	— Ou no árabe, igual que Pedrinho disse de outra coisa?
+<seg id="27">	— Aqui.
+<seg id="28">	— Na Sorveteria Gatão o sorvete é bom porque tem gosto igual da cor.
+<seg id="29">	Para você carne tem gosto de carne?
+<seg id="30">	— Às vezes.
+<seg id="31">	— Duvido!
+<seg id="32">	Só quero ver: da carne pendurada no açougue?!
+<seg id="33">	— Não.
+<seg id="34">	— E nem da carne que a gente fala. 
+<seg id="35">	Não tem gosto de quando você diz que carne tem vitamina.
+<seg id="36">	— Não fala tanto, come.
+<seg id="37">	— Mas você está olhando desse jeito para mim, mas não é para eu comer, é porque você está gostando muito de mim, adivinhei ou errei?
+<seg id="38">	— Adivinhou.
+<seg id="39">	Come, Paulinho.
+<seg id="40">	— Você só pensa nisso.
+<seg id="41">	Eu falei muito para você não pensar só em comida, mas você vai e não esquece.
+</doc>	
+
+Post
+Google MT
+<doc		https://x.com/gasseruto/status/1816072417824887245?s=46&t=km1exIVpvxDrHb7doLkKuQ
+<seg id="1">	Já que "hitou", eu só vou complementar dizendo que não é legal envolver a Nintendo dessa forma nisso.
+<seg id="2">	MAS para mim é óbvio que todo mundo tava achando que as ilustrações eram fanarts.
+<seg id="3">	Não feitas por um artista independent por encomenda da Pokémon Company.
+<seg id="4">	Mas agora já foi.
+</doc>
+
+Review
+Amazon MT
+<doc		https://www.amazon.co.uk/Utopia-Bedding-Fitted-Sheet-Comfortable/product-reviews/B075JGKFJ6/ref=cm_cr_arp_d_viewopt_kywd?ie=UTF8&reviewerType=all_reviews&pageNumber=1&filterByKeyword=bom
+<seg id="1">	Bom 
+<seg id="2">	É muito prático não ter que passar a ferro e estar sempre impecável, desde que se põe até que se tira. Eu mudo todas as semanas, mas quem quiser ter mais tempo pode muito bem.
+<seg id="3">	Para mim, ter o bolso profundo não é tão bom assim porque fica solto durante a noite e é preciso voltar a arranjar todos os dias, mesmo tendo um colchão com mais de 30 cm.
+</doc>
+
+Review
+Amazon MT 
+<doc		https://www.amazon.co.uk/Yosou-Charger-Cable-Charging-Braided-Space-Grey/product-reviews/B09CYZRKD6/ref=cm_cr_arp_d_viewopt_kywd?ie=UTF8&reviewerType=all_reviews&pageNumber=1&filterByKeyword=bom
+<seg id="1">	boa qualidade
+<seg id="2">	Cabo de boa qualidade.
+<seg id="3">	Único senão é que demora muito tempo a carregar o telemóvel. 
+<seg id="3">	Não sendo por isso bom para alguma pressa.
+<seg id="3">	Tirando isso desenrasca muito bem e não deixa ficar mal
+</doc>
+
+Recipe
+Google MT
+<doc		https://www.tudogostoso.com.br/receita/136814-escondidinho-de-carne-moida.html
+<seg id="1">	Escondidinho é mais gostoso!
+<seg id="2">	Pra você que é apreciador dessa iguaria, bastante popular no Nordeste brasileiro, trouxemos essa deliciosa receita de escondidinho de carne moída.
+<seg id="3">	Veja como fazer, capriche no preparo e corra pro abraço!
+<seg id="4">	Ingredientes (8 porções)
+<seg id="5">	1 kg de batata
+<seg id="6">	500 g de carne moída
+<seg id="7">	200 g de queijo mussarela
+<seg id="8">	azeite
+<seg id="9">	1 cebola
+<seg id="10">	1 dente de alho amassado
+<seg id="11">	sal a gosto
+<seg id="12">	pimenta branca a gosto
+<seg id="13">	cheiro-verde a gosto
+<seg id="14">	1/2 copo de leite
+<seg id="15">	2 colheres de manteiga
+<seg id="16">	Modo de preparo : 40min
+<seg id="17">	1 Descasque as batatas, corte ao meio e cozinhe com água e sal.
+<seg id="18">	2 Depois de cozidas, amasse as batatas, adicione o leite e a manteiga, mexa bem até formar um purê e reserve.
+<seg id="19">	3 Em uma panela, adicione 1 fio de azeite, a cebola, o alho e refogue a carne moída.
+<seg id="20">	4 Tempere com sal, pimenta branca, cheiro-verde e cozinhe até secar a água que se formar na panela.
+<seg id="21">	5 Forre um refratário com a metade do purê de batatas.
+<seg id="22">	6 Acrescente uma camada de queijo e uma camada de carne moída.
+<seg id="23">	7 Repita o processo e finalize com queijo ralado por cima.
+<seg id="24">	8 Leve ao forno por 40 minutos.
+</doc>
+
+Technical
+Google MT 
+<doc		https://tede.unioeste.br/handle/tede/2418
+<seg id="1">	Ao fazermos uma releitura da história, é de fundamental importância discutir e analisar os discursos que há em relação aos índios no Brasil. 
+<seg id="2">	Discursos produzidos ao longo da história deslizam do político ao religioso, do etnológico ao social, se deslocam de um campo a outro e produzem efeitos de sentidos no imaginário social brasileiro que, em certas condições de produção, irrompem pré-construídos já estabilizados. 
+<seg id="3">	A Itaipu Binacional, concluída no ano de 1982, é a maior hidrelétrica do mundo em geração de energia e sua construção é indissociada da história/trajetória do povo indígena Guarani na região da tríplice fronteira. 
+<seg id="4">	Atualmente, segundo o discurso da Itaipu Binacional marcado em nosso corpus de pesquisa, composto pelo DVD Tradição Guarani e pelos Jornais Cultivando Água Boa e Jornal da Itaipu Eletrônico (JIE), a instituição tem o compromisso de, a partir de um modelo de sustentabilidade.
+<seg id="5">	Gerido pelo Programa Cultivando Água Boa, valorizar as especificidades das tradições Guarani contemporâneas, promover o seu modo de ser (Teko) e garantir o respeito à diferença e à diversidade.
+<seg id="6">	A partir do que permite o dispositivo teórico-metodológico da Análise de Discurso de orientação francesa (AD), propomo-nos, então, analisar as materialidades discursivas difundidas pela empresa binacional para chegarmos à compreensão dos sentidos, que desvelam uma relação da língua inscrita na história.
+<seg id="7">	Nessa perspectiva, o presente trabalho buscou analisar de que formae em que esta instituição se pauta para produzir e sustentar seu posicionamento a respeito da sustentabilidade das comunidades indígenas dos Tekohas Añetete, Itamarã e Ocoy, quais são os efeitos de sentido produzidos e o que está silenciado em seu discurso.
+<seg id="8">	Para isso, foram analisadas sequências discursivas retiradas do DVDTradição Guarani sustentabilidade nas comunidades indígenas, produzido pela Itaipu Binacional no ano de 2009, o qual teve apoio do Programa Cultivando Água Boa, do Parque Tecnológico Itaipu (PTI) e do projeto Ñandeva, responsável pela comercialização inicial dos DVDs produzidos, além de sequências discursivas noticiadas no Jornal Cultivando Água Boa e no Jornal da Itaipu Eletrônico (JIE) e de fotografias/imagens que integram as publicações.
+<seg id="9">	De forma geral, evidenciamos os sentidos e relações presentes nos discursos acerca da sustentabilidade nas comunidades tradicionais Guarani do Oeste do Paraná, sobretudo nas construções ideológicas desencadeadas a partir de tais discursos que marcam o sujeito indígena como dependente da tutela de Itaipu, mas que, em alguns momentos, deslizam e desvelam o sujeito Guarani que se articula para reivindicar um espaço de visibilidade.
+<seg id="10">	Nesse sentido, a pesquisa qualitativa foi orientada pela abordagem sócio-histórica fundamentada nos pressupostos teórico-metodológicos da AD, ancorada principalmente nos postulados de Michel Pêcheux, Eni Orlandi e Bethania Mariani.
+<seg id="11">	Dessa posição, considera-se que o sujeito e o sentido não são naturais, transparentes, mas, sim, que são determinados historicamente e que devem ser pensados em seus processos de constituição.
+</doc> 

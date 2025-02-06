@@ -1,0 +1,118 @@
+Literature - DeepL
+
+<doc	
+<seg id="1">	Eat, My Son - Clarice Lispector
+<seg id="2">	The world seems boring, but I know it's not.
+<seg id="3">	Do you know why it seems boring?
+<seg id="4">	Because every time we look, the sky is above, it's never below, it's never to one side.
+<seg id="5">	I know the world is round because they said so, but it would only look round if we looked and sometimes the sky was below.
+<seg id="6">	I know it's round, but to me it's boring, but Ronaldo only knows that the world is round, to him it doesn't seem boring.
+<seg id="7">	- ...
+<seg id="8">	— Because I've been to a lot of countries and I've seen that in the United States the sky is also up, so the world looked straight to me. 
+<seg id="9">	But Ronaldo has never left Brazil and may think that it's only here that the sky is up high, that in other places it's not flat, that it's only flat in Brazil, that in other places he hasn't seen it's rounded.
+<seg id="10">	When they tell him, he just has to believe them, nothing has to seem that way to him.
+<seg id="11">	Do you prefer deep dish or flat dish, Mum?
+<seg id="12">	— Chat... Flat, that is.
+<seg id="13">	— Me too.
+<seg id="14">	In the deep one, it looks like it fits more, but it's only towards the bottom, in the flat one it fits to the sides and you can see everything there.
+<seg id="15">	Doesn't cucumber seem unreal?
+<seg id="16">	— Unreal. 
+<seg id="17">	— Why do you think that is?
+<seg id="18">	— If you say so.
+<seg id="19">	— No, why do you think cucumber looks unreal too?
+<seg id="20">	Me too.
+<seg id="21">	You look at it and you see a bit of the other side, it's full of very similar designs, it's cold in your mouth, it makes the sound of a bit of glass when you chew it.
+<seg id="22">	Don't you think cucumber looks made up?
+<seg id="23">	— Yes.
+<seg id="24">	— Where were beans and rice invented?
+<seg id="25">	— Here.
+<seg id="26">	— Or in Arabic, like Pedrinho said about something else?
+<seg id="27">	— Here.
+<seg id="28">	— At Gatão Ice Cream Parlour, the ice cream is good because it tastes the same as the colour. 
+<seg id="29">	Does meat taste like meat to you?
+<seg id="30">	— Sometimes.
+<seg id="31">	— I doubt it!
+<seg id="32">	I just want to see: the meat hanging in the butcher's?!
+<seg id="33">	— No.
+<seg id="34">	— And not the meat we talk about. 
+<seg id="35">	It doesn't taste like when you say meat has vitamins.
+<seg id="36">	— Don't talk so much, just eat it.
+<seg id="37">	— But you're looking at me like that, but it's not for me to eat, it's because you like me a lot, did I guess or did I get it wrong?
+<seg id="38">	— You guessed wrong.
+<seg id="39">	Eat, Paulinho.
+<seg id="40">	— That's all you think about.
+<seg id="41">	I've told you a lot not to think only about food, but you do and you don't forget it.
+</doc>	
+
+Post
+Google MT
+<doc		https://x.com/gasseruto/status/1816072417824887245?s=46&t=km1exIVpvxDrHb7doLkKuQ
+<seg id="1">	Since it's "hitou", I'm just going to add that it's not cool to involve Nintendo in this way.
+<seg id="2">	BUT for me it's obvious that everyone thought the illustrations were fanart.
+<seg id="3">	Not made by an independent artist commissioned by the Pokémon Company.
+<seg id="4">	But now it's gone. 
+</doc>
+
+Review
+Amazon MT
+<doc		https://www.amazon.co.uk/Utopia-Bedding-Fitted-Sheet-Comfortable/product-reviews/B075JGKFJ6/ref=cm_cr_arp_d_viewopt_kywd?ie=UTF8&reviewerType=all_reviews&pageNumber=1&filterByKeyword=bom
+<seg id="1">	Bom 
+<seg id="2">	It's very practical not to have an iron and to always be impeccable, from the moment you put it on until you take it off. I change every week, but those who want more time may as well. 
+<seg id="3">	For me, having a deep pocket is not so good because it is loose during the night and has to be rearranged every day, even if you have a mattress of more than 30 cm.
+</doc>
+
+Review
+Amazon MT 
+<doc		https://www.amazon.co.uk/Yosou-Charger-Cable-Charging-Braided-Space-Grey/product-reviews/B09CYZRKD6/ref=cm_cr_arp_d_viewopt_kywd?ie=UTF8&reviewerType=all_reviews&pageNumber=1&filterByKeyword=bom
+<seg id="1">	good quality
+<seg id="2">	Good quality cable.
+<seg id="3">	The only catch is that it takes a long time to charge the phone. 
+<seg id="3">	So not good for a hurry.
+<seg id="3">	Apart from that, it unravels very well and doesn't leave you feeling sick.
+</doc>
+
+Recipe
+Google MT
+<doc		https://www.tudogostoso.com.br/receita/136814-escondidinho-de-carne-moida.html
+<seg id="1">	Hidden is better!
+<seg id="2">	For those of you who are fond of this delicacy, which is quite popular in the Brazilian Northeast, we bring you this delicious recipe for ground beef escondidinho.
+<seg id="3">	See how to do it, take care of your preparation and run for the hug!
+<seg id="4">	Ingredients (8 servings)
+<seg id="5">	1 kg of potatoes
+<seg id="6">	500 g of ground beef
+<seg id="7">	200 g mozzarella cheese
+<seg id="8">	oil
+<seg id="9">	1 onion
+<seg id="10">	1 clove of crushed garlic
+<seg id="11">	salt to taste
+<seg id="12">	white pepper to taste
+<seg id="13">	green scent to taste
+<seg id="14">	1/2 glass of milk
+<seg id="15">	2 spoons of butter
+<seg id="16">	Preparation method: 40min
+<seg id="17">	1 Peel the potatoes, cut in half and cook with water and salt.
+<seg id="18">	2 Once cooked, mash the potatoes, add the milk and butter, stir well until puree forms and set aside.
+<seg id="19">	3 In a pan, add 1 drizzle of olive oil, the onion, garlic and sauté the ground meat.
+<seg id="20">	4 Season with salt, white pepper, green pepper and cook until the water that forms in the pan dries up.
+<seg id="21">	5 Line a baking dish with half the mashed potatoes.
+<seg id="22">	6 Add a layer of cheese and a layer of ground meat.
+<seg id="23">	7 Repeat the process and finish with grated cheese on top.
+<seg id="24">	8 Bake for 40 minutes.
+</doc> 
+
+Technical
+Google MT 
+<doc		https://tede.unioeste.br/handle/tede/2418
+<seg id="1">	When rereading history, it is of fundamental importance to discuss and analyze the discourses that exist in relation to Indians in Brazil.
+<seg id="2">	Discourses produced throughout history range from political to religious, from ethnological to social, moving from one field to another and producing effects of meaning in the Brazilian social imagination that, under certain conditions of production, erupt already stabilized pre-constructed ideas.
+<seg id="3">	Itaipu Binacional, completed in 1982, is the largest hydroelectric plant in the world in terms of energy generation and its construction is inseparable from the history/trajectory of the Guarani indigenous people in the triple border region. 
+<seg id="4">	Currently, according to the speech of Itaipu Binacional marked in our research corpus, composed of the DVD Tradição Guarani and the newspapers Cultivando Água Boa and Jornal da Itaipu Eletrônico (JIE), the institution is committed to, from a &#8213; sustainability model&#8214
+<seg id="5">	Managed by the Cultivating Good Water Program, value the specificities of contemporary Guarani traditions, promote their way of being (Teko) and guarantee respect for difference and diversity.
+<seg id="6">	Based on what the theoretical-methodological device of French-oriented Discourse Analysis (DA) allows, we then propose to analyze the discursive materialities disseminated by the binational company to arrive at an understanding of the meanings, which reveal a relationship between the language inscribed in the history.
+<seg id="7">	From this perspective, the present work sought to analyze how this institution is guided to produce and sustain its position regarding the sustainability of the indigenous communities of Tekohas Añetete, Itamarã and Ocoy, what are the meaning effects produced and what is silenced in his speech.
+<seg id="8">	To this end, discursive sequences were analyzed taken from the DVD Tradição Guarani sustainability in indigenous communities, produced by Itaipu Binacional in 2009, which had support from the Cultivating Água Boa Program, the Itaipu Technological Park (PTI) and the Ñandeva project, responsible for commercialization initial version of the DVDs produced, in addition to discursive sequences reported in the Jornal Cultivando Água Boa and the Jornal da Itaipu Eletrônico (JIE) and photographs/images that are part of the publications.
+<seg id="9">	In general, we highlight the meanings and relationships present in the discourses about sustainability in the traditional Guarani communities of Western Paraná, especially in the ideological constructions triggered by such discourses that mark the indigenous subject as dependent on the tutelage of Itaipu, but which, in some moments, slide and reveal the Guarani subject who articulates himself to claim a space of visibility.
+<seg id="10">	In this sense, qualitative research was guided by the socio-historical approach based on the theoretical-methodological assumptions of AD, anchored mainly in the postulates of Michel Pêcheux, Eni Orlandi and Bethania Mariani. 
+<seg id="11">	From this position, it is considered that the subject and meaning are not natural, transparent, but rather that they are historically determined and that they must be thought of in their constitution processes.
+
+</doc> 

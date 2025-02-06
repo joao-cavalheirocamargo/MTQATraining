@@ -38,8 +38,8 @@ The materials are released under the **Creative Commons Attribution-NonCommercia
 
 - João Lucas Cavalheiro Camargo. "Quality Assessment of Machine and LLM-driven Translation Training Materials", [[MTQATraining](https://github.com/joao-cavalheirocamargo/MTQATraining)], Licensed under CC BY-NC 4.0.
 
- 
-Full license details: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Full license details: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
 
 ## Contact
 
